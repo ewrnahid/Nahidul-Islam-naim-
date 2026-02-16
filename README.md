@@ -12,7 +12,7 @@
 -   💬 I'm Single. But I Have a Person in My Heart 💜
 -   💓 Relationship: Single 
 -   🍁 Profile: [Facebook](https://www.facebook.com/virtual.abbu.nobita)
--   🍀 Describe About Myself: I'm Full Time Busy Person. I've Continue My Studies. Besides work I write scripts in JavaScript To improve performance of the bot. If you're using my Bot Subscribe My YouTube Channel Abdulla Tech 49. Thank you for using Nahidul-bot Version 2 
+-   🍀 Describe About Myself: I'm Full Time Busy Person. I've Continue My Studies. Besides work I write scripts in JavaScript To improve performance of the bot. If you're using my Bot. Thank you for using Nahidul-bot Version 2 
 <hr>
 
 # 📖 Top Langs
